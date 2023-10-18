@@ -1,0 +1,73 @@
+body {
+  font-family: "Bebas Neue", sans-serif;
+  font-family: "Lato", sans-serif;
+}
+
+h1,
+p,
+li {
+  margin-left: 30px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
+  margin-top: 30px;
+}
+
+ul {
+  margin: 20px 0;
+  padding: 0;
+}
+
+li,
+p {
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 1, 5;
+  list-style: none;
+}
+
+.container {
+  margin: 60px auto;
+  max-width: 600px;
+}
+
+.weather-app {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+
+.col-8 {
+  display: block;
+  margin: 0 auto;
+  padding: 80px;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.weather-week {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.col-3 {
+  text-align: center;
+}
+
+.weather-emoji {
+  display: block;
+  margin: 0 auto;
+  font-size: 30px;
+}
+
+.week-temperature {
+  text-align: center;
+}
